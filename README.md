@@ -15,4 +15,4 @@ Here is the breadboard layout.
 ![circuit](https://github.com/YuxiLu/ECE387-Final-Projrct/blob/main/Circuit.png)
 
 # Demo
-
+In demo.mp4

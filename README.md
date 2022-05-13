@@ -1,2 +1,2 @@
-# ECE387-Final-Projrct
-Final individual project
+# Final individual project
+

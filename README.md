@@ -12,7 +12,7 @@ When I was a child, I used to play the game console of whack-a-mole. The hamster
 
 ## Circuit
 Here is the breadboard layout. 
-
+![circuit](https://github.com/YuxiLu/ECE387-Final-Projrct/blob/main/Circuit.png)
 
 # Demo
 
